@@ -1,4 +1,3 @@
-# QualityPictureWebsite
 ## 收录12个优质图片网站
 
 首字母 | 个数 | 网址
