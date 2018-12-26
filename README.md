@@ -1,9 +1,9 @@
 # QualityPictureWebsite
 收录7个优质图片网站
 
-
-+7. 1个
-  https://7mx.com/ 
+首字母 | 个数 | 网址
+---- | ---- | ---- 
+7 | 1 | https://7mx.com/ 
 
 +P. 3个
   > https://www.pexels.com/ 
